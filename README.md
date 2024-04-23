@@ -1,2 +1,7 @@
-# Nextflow-Workflow-Template
-Template example of modular structure in Nextflow
+# Test subworkflow run
+
+```
+bash runme.sh
+```
+
+Expected output is in ```output```.
